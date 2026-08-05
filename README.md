@@ -78,7 +78,12 @@ Currently, I'm a **member of Team Vajra Drone Club at MMCOE**, where I work on d
   <img src="https://skillicons.dev/icons?i=aws,vercel" />
 </p>
 
-### 🛠️ Tools & Technologies
+### ⚙️ Electronics & PCB Design
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,kicad" />
+</p>
+
+### 🛠️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
