@@ -28,23 +28,33 @@ Currently, I'm a proud **Member of Team Vajra Drone Club at MMCOE**, where I wor
 
 ## 📊 GitHub Stats & Activity
 
+<!-- GitHub Stats Cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- Green Dot Contribution Graph (exactly like GitHub) -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/YOUR_USERNAME" alt="YOUR_USERNAME's GitHub Contribution Chart" width="100%" />
+</p>
+
+<!-- Activity Graph (animated area chart) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
+<!-- Visitor Counter -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="Visitor Count" />
 </p>
