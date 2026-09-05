@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Shivraj+Deshmukh;ENTC+Engineering+Student;PCB+Designer;MERN+Stack+Developer;Flutter+Developer;Drone+Club+Member+%40+MMCOE)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Shivraj+Deshmukh;ENTC+Engineering+Student;PCB+Designer;MERN+Stack+Developer;Flutter+Developer;Drone+Club+Member+%40+MMCOE;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</p>
 
 # 👋 Welcome to My GitHub Profile
 
@@ -22,31 +26,56 @@ Currently, I'm a proud **Member of Team Vajra Drone Club at MMCOE**, where I wor
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME" alt="Visitor Count" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,js,ts" alt="Languages" />
 </p>
 
 ### 🌐 Web Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,tailwind,bootstrap" alt="Web Dev" />
 </p>
 
 ### 📱 Mobile App Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" alt="Mobile Dev" />
 </p>
 
 ### ☁️ Cloud & Deployment
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,vercel" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel" alt="Cloud" />
 </p>
 
 ### 🛠️ Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino" alt="Tools" />
 </p>
 
 ### ⚡ Electronics
